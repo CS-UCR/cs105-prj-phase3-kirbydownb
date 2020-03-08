@@ -1,4 +1,4 @@
-# Yelp Ratings Project Phases 1 and 2
+# Yelp Ratings Project Phases 1 and 2 ![alt text](https://www.seekpng.com/png/detail/383-3838993_mongodb-logo-01-illustration.png" alt="Mongodb Logo 01 - Illustration@seekpng.com)
 
 In phases 1 and 2, we collected two sets of data: the median income of California zip codes and Yelp reviews about restaurants in those zip codes. We stored that data in a MongoDB Atlas Cluster in phase 1 and cleaned up the data in phase 2.
 
