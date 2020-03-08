@@ -1,0 +1,9 @@
+yelp_businesses_url = "https://api.yelp.com/v3/businesses/search"
+income_url = "http://zipatlas.com/us/ca/zip-code-comparison/median-household-income.htm"
+mongodb_atlas_connection = "mongodb+srv://kawhi:kirbydownb@cluster0-4iqrd.mongodb.net/test?retryWrites=true&w=majority"
+first = "http://zipatlas.com/us/ca/zip-code-comparison/median-household-income."
+second = ".htm"
+income_url_lower_page_limit = 1
+income_url_upper_page_limit = 17
+num_restaurant_limit = 6
+num_zipcode_limit = 400
