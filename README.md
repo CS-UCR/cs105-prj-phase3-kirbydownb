@@ -6,3 +6,5 @@ In phases 1 and 2, we collected two sets of data: the median income of Californi
 # Yelp Rating Project Phase 3 :fast_forward:
 
 In phase 3, we will take this cleaned data and insert it into a model in order ro perform predictions on the data. 
+
+We used XGB, which is a decision tree classifier in order to predict the rating of a restaurant. We chopped up the continuous rating data into discrete buckets, and then used the other features we had collected and allowed to the decision tree
